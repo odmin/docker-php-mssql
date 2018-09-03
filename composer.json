@@ -1,0 +1,13 @@
+{
+    "name": "odmin/docker-php-mssql",
+    "description": "Example or docker image with ubuntu, apache2, php 7.1, ms sql driver",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "odmin",
+            "email": "e.saratovtsev@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
